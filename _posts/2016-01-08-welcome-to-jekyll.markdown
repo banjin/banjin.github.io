@@ -1,24 +1,32 @@
 ---
-title:  "Welcome to Jekyll!"
-date:   2016-01-08 15:04:23
+title:  "在github上搭建博客"
+date:   2016-08-23 15:04:23
 categories: [jekyll]
 tags: [jekyll]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+本教程是一个简易快速搭建 github博客教程，不涉及到具体的语法，只是为了搭建而搭建，如果想学习具体搭建细节，请参考其它文章。
 
-Jekyll also offers powerful support for code snippets:
+简单说，只需要三步，就可以在 Github 搭建起一个博客：
+	
+	1.在 Github 上建一个名为 xxx.github.io 的库；
+	2 把看中了的 Jekyll 模板 clone 到本地；
+	3 把这个模板 push 到自己的库；
+	
+	具体：
+		一，有自己的github帐号
+		二，建立一个项目 username.github.io  username是自己的Github帐号用户名
+		在本地 git clone  https://github.com/username/username.github.io.git
+		
+		在本地会产生一个username.github.io的目录，里面有一些Github默认生成的文件， 可以忽略（删除）
+		在http://jekyllthemes.org/ 找jekyll模版，点击下载，然后在本地进行解压，将解压目录下的所有文件都拷贝到username.github.io目录下，修改_config.yml文件，将url换成自己的url 设置成http://username.github.io
+		baser:’/‘,再将其它有关用户的信息换成自己的。
+		然后 git add .    git commit -m “”  git push
+		在浏览器中打开 username.github.io 即可，
+	
+that is all ,so easy,bye
 
-``` ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
