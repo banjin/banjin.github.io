@@ -23,6 +23,10 @@ tags: [jekyll]
 		baser:’/‘,再将其它有关用户的信息换成自己的。
 		然后 git add .    git commit -m “”  git push
 		在浏览器中打开 username.github.io 即可，
+		
+在写新的博客时候，只需要在_post目录下创建一个md格式文件即可
+文件格式必须和模版带的的第一个文件格式一致
+Markdown 文件的命名类型为「日期(20xx-xx-xx) + 主题(英文) + 格式（md/HTML/markdown）」
 	
 that is all ,so easy,bye
 
