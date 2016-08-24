@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "linux 系统查看命令"
 date:   2016-08-23 15:04:23
 categories: [jekyll]
