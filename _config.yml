@@ -1,19 +1,18 @@
 # Site settings
 title: songhm
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+description: 'Forwerd Think, Safely Run'
 url: 'http://banjin.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
-
+  name: 'Haiming Song'
+  email: baliang616@163.com
+  twitter_username: songhaiming
+  facebook_username: Song Haiming
+  github_username:  banjin
+  linkedin_username:  Aaron
 defaults:
   -
     scope:
