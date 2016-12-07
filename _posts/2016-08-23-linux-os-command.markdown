@@ -3,7 +3,7 @@ layout: post
 title:  "linux 系统查看命令"
 date:   2016-08-23 15:04:23
 categories: [jekyll]
-tags: [jekyll]
+tags: [python]
 ---
 
 本博客主要记录一些有关操作系统的命令，以便能够及时查看（更新中...）
