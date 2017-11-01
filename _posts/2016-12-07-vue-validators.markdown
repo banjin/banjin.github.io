@@ -6,7 +6,7 @@ categories: [jekyll]
 tags: [vue-validators]
 ---
 
-本博客主要是介绍vue的炎症器插件vue-validators的使用方法。
+本博客主要是介绍vue的验证器插件vue-validators的使用方法。
 
 # 安装
 
