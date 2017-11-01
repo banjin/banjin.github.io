@@ -59,3 +59,7 @@ $ pip install django-debug-toolbar
             ] + urlpatterns
             
 这个例子中使用__debug__作为前缀，
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

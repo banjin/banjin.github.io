@@ -198,8 +198,10 @@ tags: [Python]
     
     python编译函数的定义体时候，它判断b是局部变量，因为在函数中给它赋值了
     这不是缺陷，而是设计选择:python不要求声明变量，但是假定在函数定义体中赋值的变量是局部变量。
-    
-         
-     
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
      
     

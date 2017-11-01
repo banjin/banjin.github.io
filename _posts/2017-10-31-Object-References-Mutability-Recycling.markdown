@@ -62,3 +62,7 @@ tags: [Python]
 
 
 注意：不要使用可变值作为参数的默认值。
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
