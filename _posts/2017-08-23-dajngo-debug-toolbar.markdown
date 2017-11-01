@@ -8,7 +8,7 @@ tags: [Python]
 
 
 
-# django调试利器 -django-debug-toolbar
+django调试利器 django-debug-toolbar
 
 1.安装
 
