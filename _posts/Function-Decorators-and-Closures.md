@@ -1,3 +1,13 @@
+---
+layout: post
+title:  " 装饰器和闭包"
+date:   2017-10-23 15:04:23
+categories: [jekyll]
+tags: [Python]
+---
+
+
+
 # 装饰器和闭包
 
 #### 作用域

@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "django调试利器 -django-debug-toolbar"
+date:   2017-08-23 15:04:23
+categories: [jekyll]
+tags: [Python]
+---
+
+
+
 # django调试利器 -django-debug-toolbar
 
 1.安装

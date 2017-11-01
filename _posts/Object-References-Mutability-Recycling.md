@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "对象引用 可变性和垃圾回收"
+date:   2016-08-23 15:04:23
+categories: [jekyll]
+tags: [Python]
+---
+
+
 # 对象引用 可变性和垃圾回收
 
 
